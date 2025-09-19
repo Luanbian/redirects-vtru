@@ -1,6 +1,8 @@
 {
   "common": {
-    "xibit": {},
+    "xibit": {
+      "about_url": "https://about.xibit.app"
+    },
     "vitruveo": {
       "dreamverse_url": "https://dreamverse.vitruveo.xyz",
       "base_url": "https://vitruveo.xyz",

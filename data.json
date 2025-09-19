@@ -17,7 +17,8 @@
       "stores_url": "https://search.vtru.dev/stores",
       "studio_url": "https://studio.vtru.dev",
       "admin_url": "https://admin.vtru.dev",
-      "airdrop_url": "https://airdrop.vtru.dev"
+      "airdrop_url": "https://airdrop.vtru.dev",
+      "slideshow_url": "https://slideshow.vtru.dev"
     },
     "vitruveo": {
       "explorer_url": "https://test-explorer.vitruveo.xyz",
@@ -31,7 +32,8 @@
       "stores_url": "xibit.live",
       "studio_url": "https://studio.vitruveo.xyz",
       "admin_url": "http://studio-admin.vitruveo.xyz",
-      "airdrop_url": "https://airdrop.vitruveo.xyz"
+      "airdrop_url": "https://airdrop.vitruveo.xyz",
+      "slideshow_url": "https://slideshow.vitruveo.xyz"
     },
     "vitruveo": {
       "explorer_url": "https://explorer.vitruveo.xyz",

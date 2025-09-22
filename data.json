@@ -10,7 +10,7 @@
       "domain": "vitruveo.xyz"
     }
   },
-  "development": {
+  "qa": {
     "xibit": {
       "store_url": "https://store.vtru.dev",
       "search_url": "https://search.vtru.dev",
